@@ -1,0 +1,10 @@
+.card {
+	width: 70%;
+	padding: 10px;
+	margin: 20px;
+	background-color: #ededed;
+}
+.card-horizontal {
+	display: flex;
+	flex: 1 1 auto;
+}
